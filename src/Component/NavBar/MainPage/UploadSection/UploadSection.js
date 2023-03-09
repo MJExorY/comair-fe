@@ -4,7 +4,7 @@ import { Paper, Avatar } from "@mui/material";
 import live from "../../../../images/video.png";
 import image from "../../../../images/image.png";
 import feeling from "../../../../images/feelings.png";
-import Dialog from "@mui/material";
+import { Dialog } from "@mui/material";
 import { firebase } from "../../../../firebase";
 import { getImage } from "../../../../GetImage";
 
