@@ -99,15 +99,12 @@ class LoginHome extends Component {
           <Grid item xs={7}>
             <div className="fblogo">
               <img
-                src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg"
+                src="https://www.hs-hairshop.de/wp-content/uploads/2017/10/logo-comair-onlineshop.jpg"
                 width="300px"
               />
             </div>
             <div>
-              <h1 className="text">
-                Facebook helps you connect and share with the people in your
-                life.
-              </h1>
+              <h1 className="text">Comair....</h1>
             </div>
           </Grid>
           <Grid item xs={3}>
